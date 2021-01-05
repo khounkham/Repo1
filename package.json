@@ -4,7 +4,7 @@
     "description": "A basic app for demonstration of Node.js appliction.",
     "main": "app.js",
     "dependencies": {
-        "axios": "^0.19.0",
+        "axios": "^0.21.1",
         "chai": "^4.2.0",
         "express": "^4.16.2",
         "pug": "^2.0.0-rc.4"
